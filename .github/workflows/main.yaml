@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: wasm-im:latest
+          tags: william9527/wasm-im:latest
